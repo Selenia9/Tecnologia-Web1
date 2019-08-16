@@ -19,7 +19,7 @@ function slide() {
     vimg[4] = '<img src="img/1e.jpeg"width: 50%;>'
     vimg[5] = '<img src="img/1f.jpeg"width: 50%;>'
     vimg[6] = '<img src="img/1g.jpeg"width: 50%;>'
-    vimg[2] = '<img src="img/carro-4.jpg"width: 50%;>'
+    vimg[7] = '<img src="img/carro-4.jpg"width: 50%;>'
     var m = document.getElementById('slide')
     window.onload = window.setInterval(function() {
         if (n < vimg.length) {
